@@ -36,7 +36,7 @@ function multiply (a,b) {
 };
 
 function divide (a,b) {
-    if (secondNumber=="0") return "no can do, hun";
+    if (secondNumber=="0") return "no babe";
     else {let result = parseFloat(a) / parseFloat(b);
     return checkLength (result)
 }
